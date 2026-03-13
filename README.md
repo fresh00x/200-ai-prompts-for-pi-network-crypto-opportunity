@@ -1,4 +1,4 @@
-# 200 AI Prompts for Pi Network Crypto Opportunity
+# 200-ai-prompts-for-pi-network-crypto-opportunity
 
 Unlock the full potential of your Pi Network crypto investment with these 200 unique and engaging AI-generated prompts! Perfect for boosting engagement and fostering creativity in your community. Get 
 
@@ -6,7 +6,7 @@ Unlock the full potential of your Pi Network crypto investment with these 200 un
 
 | Property | Value |
 |---|---|
-| Records | 5 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Unlock the full potential of your Pi Network crypto investment with these 200 un
 ## Sample
 
 ```json
-"What would be the best way to invest my Pi coins?"
+Keys: title, description, price
 ```
 
 ## Usage
